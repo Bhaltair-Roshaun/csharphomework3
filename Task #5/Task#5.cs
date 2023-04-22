@@ -27,4 +27,3 @@ int SumAllDigit(int number)
 int number = Prompt("Введите число: ");
 
 Console.Write("Сумма цифр в числе = " + SumAllDigit(number));
-
